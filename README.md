@@ -1,6 +1,7 @@
 # IRCTC Registration Page – Manual Testing Project
 
 ## 📌 Project Overview
+https://github.com/820NaveenKumar208/IRCTC-Registration-Page-User-account-creation-and-input-validation-testing/tree/main
 
 This project focuses on **Manual Testing of the IRCTC User Registration Page**.
 
